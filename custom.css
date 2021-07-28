@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+/* Custom Global Styles Start*/
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.custom-btn{
+    background: #E76F51;
+    font-size: 1rem;
+    font-weight: 500;
+    padding: 10px 46px;
+    color: white;
+}
+.custom-btn:hover{
+    background: #E76F22;
+    color: white;
+}
+/* Custom Global Styles End*/
+
+/* Custom Styles Start*/
+.custom-header-bg{
+    background-color: #264653;
+}
+.custom-hero-h1{
+    font-size: 3rem;
+    font-weight: 600;
+}
+
+.custom-sub-title{
+    color:#E76F51;
+    font-weight: 600;
+}
+
+.custom-img-grayscale{
+    filter: grayscale(100%);
+}
+/* Custom Styles End*/
