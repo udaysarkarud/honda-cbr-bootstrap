@@ -4,6 +4,14 @@
 body{
     font-family: 'Poppins', sans-serif;
 }
+/* .custom-extra02-bg{
+    background-image: url('images/xDiavel-02-banner-full.jpg');
+    background-position:top;
+    background-size: cover;
+}
+.custom-height{
+    height: 400px;
+} */
 .custom-btn{
     background: #E76F51;
     font-size: 1rem;
