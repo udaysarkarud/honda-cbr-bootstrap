@@ -37,7 +37,35 @@ body{
 .custom-img-grayscale{
     filter: grayscale(100%);
 }
-i{
-    background-color: yellow;
+
+.custom-client-rating i{
+font-size: 18px;
+padding: 4px;
 }
+.bi-star-fill{
+    color: #E77C40;
+}
+.bi-star{
+    color: #E77C40;
+}
+
+
+
+
+/* .custom-client-rating ul{
+    display: flex;
+    list-style: none;
+
+}
+.custom-client-rating ul li{
+    display: flex;
+    list-style: none;
+
+}
+.bi-star-fill{
+    color: #E77C40;
+}
+.bi-star{
+    color: #E77C40;
+} */
 /* Custom Styles End*/
