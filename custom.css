@@ -37,4 +37,7 @@ body{
 .custom-img-grayscale{
     filter: grayscale(100%);
 }
+i{
+    background-color: yellow;
+}
 /* Custom Styles End*/
