@@ -4,14 +4,6 @@
 body{
     font-family: 'Poppins', sans-serif;
 }
-/* .custom-extra02-bg{
-    background-image: url('images/xDiavel-02-banner-full.jpg');
-    background-position:top;
-    background-size: cover;
-}
-.custom-height{
-    height: 400px;
-} */
 .custom-btn{
     background: #E76F51;
     font-size: 1rem;
@@ -56,8 +48,20 @@ padding: 4px;
 .bi-star{
     color: #E77C40;
 }
+.custom-footer-bg{
+    background-color: #1a1a21;
+}
 
-
+.custom-footer-bg i{
+    color: #dd3d53;
+}
+.footer-social-icon{
+    font-size: 25px;
+    padding: 5px;
+}
+.footer-social-icon:hover{
+    color: white;
+}
 
 
 /* .custom-client-rating ul{
