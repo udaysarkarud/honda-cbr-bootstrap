@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap');
 
-/* Custom Global Styles Start*/
+/* Custom Global Styles Start */
 body{
     font-family: 'Poppins', sans-serif;
 }
@@ -22,9 +22,9 @@ body{
     margin-top: 160px;
     margin-bottom: 100px;
 }
-/* Custom Global Styles End*/
+/* Custom Global Styles End */
 
-/* Custom Styles Start*/
+/* hero Section Start */
 .custom-header-bg{
     background-color: #264653;
 }
@@ -32,7 +32,9 @@ body{
     font-size: 3rem;
     font-weight: 600;
 }
+/* hero Section End */
 
+/* feature section start */
 .custom-sub-title{
     color:#E76F51;
     font-weight: 600;
@@ -41,7 +43,9 @@ body{
 .custom-img-grayscale{
     filter: grayscale(100%);
 }
+/* feature section End */
 
+/* Clients section start */
 .custom-client-rating i{
     font-size: 18px;
     padding: 4px;
@@ -52,6 +56,9 @@ body{
 .bi-star{
     color: #E77C40;
 }
+/* Clients section End */
+
+/* Footer section Start */
 .custom-footer-bg{
     background-color: #1a1a21;
 }
@@ -59,10 +66,11 @@ body{
 .custom-footer-bg i{
     color: #dd3d53;
 }
-.footer-social-icon{
+.custom-footer-social-icon{
     font-size: 25px;
     padding: 5px;
 }
-.footer-social-icon:hover{
+.custom-footer-social-icon:hover{
     color: white;
 }
+/* Footer section End */
